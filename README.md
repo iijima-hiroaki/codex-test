@@ -1,6 +1,7 @@
 # hiijima.github.io
 
 ## Project setup
+Node.js 16 以上を推奨します。
 ```
 npm install
 ```
